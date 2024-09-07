@@ -17,3 +17,11 @@ I am currently studying LLM's and I am building few projects
   3. Suggesting games and activities to cure boredom
   4. Information retreival
   5. Weather and News
+
+
+The SANET model is currently at 0.37 (bleu score)
+Bleu score is the evaluation metric used
+Dataset used is Itihasa dataset.
+Itihasa is a bilingual corpora of sanskrit sentences from epics of Mahabharat and Ramayan with their respective english translation.
+Model used is Google -T5 small.
+This model is finetuned on the itihasa dataset.
