@@ -19,7 +19,7 @@ I am currently studying LLM's and I am building few projects
   5. Weather and News
 
 
-The SANET model is currently at 0.37 (bleu score)
+The SANET model is currently at 0.52 (bleu score)
 Bleu score is the evaluation metric used
 Dataset used is Itihasa dataset.
 Itihasa is a bilingual corpora of sanskrit sentences from epics of Mahabharat and Ramayan with their respective english translation.
