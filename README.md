@@ -54,25 +54,6 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using La
 - TavilySearchResults
 - dotenv
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Set up `.env` file with necessary API keys and configurations.
-
-4. Run the script:
-   ```bash
-   python main.py
-   ```
-
 ## Usage
 1. Modify the `urls` variable to include the URLs of documents you want to load.
 2. Run the pipeline to:
