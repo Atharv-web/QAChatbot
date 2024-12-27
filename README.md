@@ -1,4 +1,4 @@
-# README
+# RAGify
 
 ## Overview
 This project implements a Retrieval-Augmented Generation (RAG) pipeline using LangChain, FAISS for vector storage, and Ollama models for language tasks. The system supports document retrieval, question answering, web search integration, and relevance grading. It uses advanced prompt engineering techniques and includes modules for routing queries and ensuring high-quality, grounded answers.
