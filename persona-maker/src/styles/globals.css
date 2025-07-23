@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gradient-to-br from-[#1f1c2c] to-[#928dab] text-white min-h-screen;
+  font-family: 'Segoe UI', sans-serif;
+}
